@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\brand\OneDrive\Documents\Univeristy\Year 1\Term 2\Programming Strand\ATM Project\ATM Machine\ATM Machine\main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\brand\OneDrive\Documents\Univeristy\Year 1\Term 2\Programming Strand\ATM Project\ATM Machine\ATM Machine\main.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ATM Machine.vcxproj -> C:\Users\brand\OneDrive\Documents\Univeristy\Year 1\Term 2\Programming Strand\ATM Project\ATM Machine\x64\Debug\ATM Machine.exe
